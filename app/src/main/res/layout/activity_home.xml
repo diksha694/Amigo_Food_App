@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.diksha.myapplication.Home"
+    android:orientation="vertical"
+    android:paddingTop="90dp">
+
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:text="SNACKS"
+        android:id="@+id/btn_snacks"
+
+        android:background="#FFF446"
+
+         />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:text="MAINS"
+        android:id="@+id/btn_mains"
+        android:background="#C93434"
+        />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:text="SIDES"
+        android:id="@+id/btn_bev"
+        android:background="#80DF86"
+         />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:text="BEVERAGES"
+        android:id="@+id/btn_sides"
+        android:background="#46CEFF"
+        />
+
+</LinearLayout>
