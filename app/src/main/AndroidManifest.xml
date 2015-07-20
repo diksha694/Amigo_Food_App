@@ -12,7 +12,6 @@
             android:label="@string/app_name" >
 
 
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -47,8 +46,38 @@
             android:name=".Sides"
             android:label="@string/title_activity_sides" >
         </activity>
-
-
+        <activity
+            android:name=".Tabsadapter"
+            android:label="@string/title_activity_tabsadapter" >
+        </activity>
+        <activity
+            android:name=".PublicprofileFragment"
+            android:label="@string/title_activity_publicprofile_fragment" >
+        </activity>
+        <activity
+            android:name=".Friendsfragment"
+            android:label="@string/title_activity_friendsfragment" >
+        </activity>
+        <activity
+            android:name=".Communityfragment"
+            android:label="@string/title_activity_communityfragment" >
+        </activity>
+        <activity
+            android:name=".Communityfragment1"
+            android:label="@string/title_activity_communityfragment1" >
+        </activity>
+        <activity
+            android:name=".Communityfragment2"
+            android:label="@string/title_activity_communityfragment2" >
+        </activity>
+        <activity
+            android:name=".Menu_Bar_try"
+            android:label="@string/title_activity_menu__bar_try" >
+        </activity>
+        <activity
+            android:name=".OrderStatus"
+            android:label="@string/title_activity_order_status" >
+        </activity>
     </application>
 
 </manifest>

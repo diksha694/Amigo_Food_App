@@ -55,12 +55,12 @@ public class Menu_Bar extends TabActivity {
         tab4.setIndicator("Sides");
         tab4.setContent(new Intent(this, Sides.class));
 
-        Bundle extras = getIntent().getExtras();
+     /*   Bundle extras = getIntent().getExtras();
 
         String value = null;
         if (extras != null) {
             value = extras.getString("mystring");
-        }
+        }*/
 
 
         /** Add the tabs  to the TabHost to display. */
@@ -70,7 +70,7 @@ public class Menu_Bar extends TabActivity {
         tabHost.addTab(tab4);
 
 
-        tabHost.setCurrentTab(Integer.parseInt(value));
+      //  tabHost.setCurrentTab(Integer.parseInt(value));
 
 
     }

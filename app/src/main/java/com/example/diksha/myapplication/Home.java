@@ -28,7 +28,7 @@ public class Home extends Activity {
             public void onClick(View view) {
 
 
-                Intent i = new Intent(getApplicationContext(), Menu_Bar.class);
+                Intent i = new Intent(getApplicationContext(), Menu_Bar_try.class);
                 i.putExtra("mystring", "0");
                 startActivity(i);
 
@@ -42,7 +42,7 @@ public class Home extends Activity {
             public void onClick(View view) {
 
 
-                Intent i = new Intent(getApplicationContext(), Menu_Bar.class);
+                Intent i = new Intent(getApplicationContext(), Menu_Bar_try.class);
                 i.putExtra("mystring", "1");
                 startActivity(i);
 

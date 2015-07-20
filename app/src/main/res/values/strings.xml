@@ -19,6 +19,32 @@
     <string name="title_activity_beverages">Beverages</string>
     <string name="title_activity_sides">Sides</string>
     <string name="title_activity_menu_try">menu_try</string>
-
+    <string name="title_activity_menu__bar_try">Menu_Bar_try</string>
+    <string name="title_activity_tabsadapter">Tabsadapter</string>
+    <string name="title_activity_publicprofile_fragment">PublicprofileFragment</string>
+    <string name="title_activity_friendsfragment">Friendsfragment</string>
+    <string name="title_activity_communityfragment">Communityfragment</string>
+    <string name="title_activity_communityfragment1">Communityfragment1</string>
+    <string name="title_activity_communityfragment2">Communityfragment2</string>
+    <string name="title_activity_slider__menu">Slider_Menu</string>
+    <string name="title_activity_nav_drawer_list_adapter">NavDrawerListAdapter</string>
+    <array name="nav_drawer_icons">
+        <item>@drawable/home1</item>
+        <item>@drawable/home1</item>
+        <item>@drawable/home1</item>
+        <item>@drawable/home1</item>
+        <item>@drawable/home1</item>
+        <item>@drawable/home1</item>
+    </array>
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Find People</item>
+        <item >Photos</item>
+        <item >Communities</item>
+        <item >Pages</item>
+        <item >What\'s Hot</item>
+    </string-array>
+    <string name="title_activity_prog__bar">Prog_Bar</string>
+    <string name="title_activity_order_status">OrderStatus</string>
 
 </resources>

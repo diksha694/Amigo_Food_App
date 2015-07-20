@@ -9,6 +9,13 @@
         <dex dex="/home/diksha/Projects/TrafficPolice/MyApplication/app/build/intermediates/pre-dexed/debug/classes-2603a8c720a2a25c1be3d27d6c85fe127303b72f.jar" />
     </item>
     <item
+        jar="/home/diksha/Amigo_Food_App/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/diksha/Amigo_Food_App/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5f9876d84582581e73e6516e728699c67e455806.jar" />
+    </item>
+    <item
         jar="/home/diksha/Projects/TrafficPolice/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
@@ -16,11 +23,11 @@
         <dex dex="/home/diksha/Projects/TrafficPolice/MyApplication/app/build/intermediates/pre-dexed/debug/classes-9b405787dd698e2f6dc0438526a94ce50c28b050.jar" />
     </item>
     <item
-        jar="/home/diksha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/home/diksha/Amigo_Food_App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/home/diksha/Projects/TrafficPolice/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-93f06d8d1ee2a48cf0289fc91109102f30872c3a.jar" />
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/diksha/Amigo_Food_App/app/build/intermediates/pre-dexed/debug/classes-c42af2a743335939eb518e664e85aac37a5a089b.jar" />
     </item>
     <item
         jar="/home/diksha/Projects/TrafficPolice/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
@@ -28,6 +35,20 @@
         revision="23.0.0 rc2"
         sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
         <dex dex="/home/diksha/Projects/TrafficPolice/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-175d60984f03dbe2111f0907692e40ca44f19e03.jar" />
+    </item>
+    <item
+        jar="/home/diksha/Amigo_Food_App/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/diksha/Amigo_Food_App/app/build/intermediates/pre-dexed/debug/classes-d1e9403983e75bc1c9d1f774f5aa259847349ed8.jar" />
+    </item>
+    <item
+        jar="/home/diksha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/diksha/Projects/TrafficPolice/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-93f06d8d1ee2a48cf0289fc91109102f30872c3a.jar" />
     </item>
 
 </items>
