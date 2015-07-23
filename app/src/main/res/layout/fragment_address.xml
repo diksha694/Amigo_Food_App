@@ -45,9 +45,12 @@
         android:id="@+id/spinner1"
         android:layout_width="241dp"
         android:layout_height="59dp"
-        android:background="@android:drawable/btn_dropdown"
+        android:background="#324A6C"
         android:spinnerMode="dropdown"
         android:layout_gravity="center"
+
+
+
         />
 
 </LinearLayout>
