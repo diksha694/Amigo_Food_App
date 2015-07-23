@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" tools:context="com.example.diksha.myapplication.Address"
+    android:background="#324A6C"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="82dp"
+        android:id="@+id/imageView3"
+        android:src="@drawable/index"
+
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="120dp"
+        />
+
+    <EditText
+        android:layout_width="241dp"
+        android:layout_height="59dp"
+        android:hint="Address Line 1"
+        android:textColor="#FFFFFF"
+
+
+        android:textColorHint="#5171A2"
+
+        android:id="@+id/editText"
+
+
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+
+        android:inputType="phone"
+        />
+    <EditText
+        android:layout_width="241dp"
+        android:layout_height="59dp"
+        android:hint="Address Line 2"
+        android:layout_gravity="center"
+        android:textColor="#FFFFFF"
+
+
+        android:textColorHint="#5171A2"/>
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="241dp"
+        android:layout_height="59dp"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>
